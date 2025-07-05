@@ -25,12 +25,11 @@ pip install streamlit>=1.32.0 phidata>=0.6.0 pandas>=2.0.0 yfinance>=0.2.31 duck
 ## 🧾 Usage
 
 ### 1. Clone this repo:
-
+### 2 Install Dependencies
 ```bash
-git clone https://github.com/your-username/financial-agent-app.git
-cd financial-agent-app
+pip install -r requirements.txt
 ```
-### 2. Run the app:
+### 3. Run the app:
 ```bash
 streamlit run app.py
 ```
